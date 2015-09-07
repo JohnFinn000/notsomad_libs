@@ -65,16 +65,10 @@ Zeus ate her.  Metis %s inside of Zeus' head for a very long
 time.  Eventually, she had her baby, and the %s began to grow 
 older.  Metis taught her daughter about %s and %s.  One day, the 
 inside of Zeus' head became too %s for both of them to live in, 
-and Zeus got a headache.  He %s his %s and ask them to split his %
-s open to get out whatever was hurting him.  They split open his %
-s, and out came Metis' %s: the goddess Athena.
-""" % (noun_1, noun_2, 
-noun_3, f_m, noun_4, emo, noun_5, verb_1, verb_2, noun_6, verb_3, 
-verb_4, size, verb_5, f_m_2, noun_7, noun_8, f_m_3)  
-
-
-
-
+and Zeus got a headache.  He %s his %s and ask them to split his 
+%s open to get out whatever was hurting him.  They split open his 
+%s, and out came Metis' %s: the goddess Athena. 
+""" % (noun_1, noun_2, noun_3, f_m, noun_4, emo, noun_5, verb_1, verb_2, noun_6, verb_3, verb_4, size, verb_5, f_m_2, noun_7, noun_8, f_m_3)
 
 
 print "____________________ Thanks for using Mad Libs! ____________________"
