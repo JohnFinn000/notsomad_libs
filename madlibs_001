@@ -56,7 +56,21 @@ f_m_3 = raw_input()
 
 print "+++++++++++++++++++++++++++++++"
 
-print "The %s of Athena : Zeus, the %s of the Gods was married to a nice %s named Metis.  But one day, his %s told him that when Metic had a %s, it would overthrow him.  He was very %s.  Soon, when Metis was transforming into various %s, she %s into a dragonfly, and Zeus ate her.  Metis %s inside of Zeus' head for a very long time.  Eventually, she had her baby, and the %s began to grow older.  Metis taught her daughter about %s and %s.  One day, the inside of Zeus' head became too %s for both of them to live in, and Zeus got a headache.  He %s his %s and ask them to split his %s open to get out whatever was hurting him.  They split open his %s, and out came Metis' %s: the goddess Athena." % (noun_1, noun_2, noun_3, f_m, noun_4, emo, noun_5, verb_1, verb_2, noun_6, verb_3, verb_4, size, verb_5, f_m_2, noun_7, noun_8, f_m_3)  
+print """
+The %s of Athena : Zeus, the %s of the Gods was married to a nice 
+%s named Metis.  But one day, his %s told him that when Metic had 
+a %s, it would overthrow him.  He was very %s.  Soon, when Metis 
+was transforming into various %s, she %s into a dragonfly, and 
+Zeus ate her.  Metis %s inside of Zeus' head for a very long 
+time.  Eventually, she had her baby, and the %s began to grow 
+older.  Metis taught her daughter about %s and %s.  One day, the 
+inside of Zeus' head became too %s for both of them to live in, 
+and Zeus got a headache.  He %s his %s and ask them to split his %
+s open to get out whatever was hurting him.  They split open his %
+s, and out came Metis' %s: the goddess Athena.
+""" % (noun_1, noun_2, 
+noun_3, f_m, noun_4, emo, noun_5, verb_1, verb_2, noun_6, verb_3, 
+verb_4, size, verb_5, f_m_2, noun_7, noun_8, f_m_3)  
 
 
 
